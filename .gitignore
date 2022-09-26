@@ -27,4 +27,4 @@ package-lock.json
 *.sw?
 source/.DS_Store
 public/
-.deploy-git
+.deploy_git
