@@ -83,9 +83,9 @@ bottomIcon:
 # 友情链接
 linksList:
   - {
-    title: 'Quiet',
-    intro: '收藏回忆与分享技术的地方',
-    link: 'https://github.com/79E/hexo-theme-quiet',
+    title: 'Ada',
+    intro: 'FE',
+    link: 'https://github.com/AdaWuh',
     image: 'https://cdn.jsdelivr.net/gh/duogongneng/MyBlogImg/imgIMG_7327.jpeg'
   }
 
