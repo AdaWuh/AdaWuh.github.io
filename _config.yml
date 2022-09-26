@@ -104,4 +104,4 @@ theme: Quiet
 deploy:
   type: git
   repo: git@github.com:AdaWuh/AdaWuh.github.io.git
-  branch: master
+  branch: gh-pages
