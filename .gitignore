@@ -27,5 +27,3 @@ package-lock.json
 *.sw?
 source/.DS_Store
 public/
-db.json
-.deploy_git
